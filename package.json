@@ -1,0 +1,52 @@
+{
+  "name": "@sharky-tools/sdk",
+  "version": "0.3.0",
+  "description": "Modern, lightweight SDK for the Sharky.fi NFT lending protocol on Solana",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "lint": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "peerDependencies": {
+    "@solana/kit": "^6.0.0"
+  },
+  "devDependencies": {
+    "@codama/nodes-from-anchor": "^1.3.9",
+    "@codama/renderers-js": "^2.1.0",
+    "@solana/kit": "^6.5.0",
+    "@types/node": "^25.5.0",
+    "codama": "^1.5.1",
+    "tsup": "^8.0.0",
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.1.0"
+  },
+  "files": [
+    "dist",
+    "idl"
+  ],
+  "keywords": [
+    "solana",
+    "sharky",
+    "nft",
+    "lending",
+    "defi",
+    "sdk"
+  ],
+  "license": "MIT"
+}
