@@ -1,4 +1,4 @@
-# @sharky-tools/sdk
+# rw-sharky-sdk
 
 Modern, lightweight SDK for the [Sharky.fi](https://sharky.fi) NFT lending protocol on Solana.
 
@@ -7,14 +7,14 @@ Built with [Codama](https://github.com/codama-idl/codama) + [@solana/kit](https:
 ## Install
 
 ```bash
-npm install @sharky-tools/sdk @solana/kit
+npm install rw-sharky-sdk @solana/kit
 ```
 
 ## Quick Start
 
 ```typescript
 import { createSolanaRpc } from '@solana/kit';
-import { fetchLoan, fetchOrderBook } from '@sharky-tools/sdk';
+import { fetchLoan, fetchOrderBook } from 'rw-sharky-sdk';
 
 const rpc = createSolanaRpc('https://api.mainnet-beta.solana.com');
 
@@ -33,7 +33,7 @@ console.log(orderBook.data.apy); // { __kind: 'Fixed', apy: 45000 }
 import {
   fetchAllLoans, fetchLoansByOrderBook, fetchOffersByLender,
   fetchAllOrderBooks,
-} from '@sharky-tools/sdk';
+} from 'rw-sharky-sdk';
 
 // All loans on the platform (warning: can be thousands)
 const allLoans = await fetchAllLoans(rpc);
@@ -55,7 +55,7 @@ import {
   getLoan, isForeclosable, getLoanTimeRemaining,
   isOffer, isTaken, getPrincipalSol, getTotalOwedSol,
   getLender, getCollateralMint,
-} from '@sharky-tools/sdk';
+} from 'rw-sharky-sdk';
 
 const loan = await getLoan(rpc, address);
 
@@ -75,7 +75,7 @@ getCollateralMint(loan.data);          // NFT mint address
 import {
   getOrderBook, getOrderBookApy, getOrderBookFee,
   getOrderBookDuration, getCollectionKey, getCollectionName,
-} from '@sharky-tools/sdk';
+} from 'rw-sharky-sdk';
 
 const ob = await getOrderBook(rpc, address);
 
@@ -83,7 +83,7 @@ getOrderBookApy(ob.data);             // 45 (percent)
 getOrderBookFee(ob.data);             // 1.0 (percent)
 getOrderBookDuration(ob.data);        // 604800 (seconds, 7 days)
 getCollectionKey(ob.data);            // collection address
-getCollectionName(address);           // "Mad Lads" (from 776 mapped collections)
+getCollectionName(address);           // "Mad Lads" (from 301 enabled collections)
 ```
 
 ## High-Level Transaction Builders
@@ -93,7 +93,7 @@ All builders auto-resolve PDAs, escrows, ATAs, metadata, and editions. You only 
 ### Lender: Place an Offer
 
 ```typescript
-import { createOfferInstruction } from '@sharky-tools/sdk';
+import { createOfferInstruction } from 'rw-sharky-sdk';
 
 const ix = await createOfferInstruction({
   lender: walletSigner,
@@ -106,7 +106,7 @@ const ix = await createOfferInstruction({
 ### Lender: Rescind an Offer
 
 ```typescript
-import { createRescindInstruction } from '@sharky-tools/sdk';
+import { createRescindInstruction } from 'rw-sharky-sdk';
 
 const ix = await createRescindInstruction({
   lender: walletSigner,
@@ -117,7 +117,7 @@ const ix = await createRescindInstruction({
 ### Borrower: Take a Loan
 
 ```typescript
-import { createTakeInstruction } from '@sharky-tools/sdk';
+import { createTakeInstruction } from 'rw-sharky-sdk';
 
 const ix = await createTakeInstruction({
   borrower: walletSigner,
@@ -132,7 +132,7 @@ const ix = await createTakeInstruction({
 ### Borrower: Repay a Loan
 
 ```typescript
-import { createRepayInstruction } from '@sharky-tools/sdk';
+import { createRepayInstruction } from 'rw-sharky-sdk';
 
 const ix = await createRepayInstruction({
   borrower: walletSigner,
@@ -148,7 +148,7 @@ const ix = await createRepayInstruction({
 ### Lender: Foreclose an Expired Loan
 
 ```typescript
-import { createForecloseInstruction } from '@sharky-tools/sdk';
+import { createForecloseInstruction } from 'rw-sharky-sdk';
 
 const ix = await createForecloseInstruction({
   lender: walletSigner,
@@ -162,7 +162,7 @@ const ix = await createForecloseInstruction({
 ### Borrower: Extend a Loan
 
 ```typescript
-import { createExtendInstruction } from '@sharky-tools/sdk';
+import { createExtendInstruction } from 'rw-sharky-sdk';
 
 const ix = await createExtendInstruction({
   borrower: walletSigner,
@@ -180,7 +180,7 @@ const ix = await createExtendInstruction({
 ## Transaction Execution
 
 ```typescript
-import { buildAndSendTransaction, createComputeBudgetInstructions } from '@sharky-tools/sdk';
+import { buildAndSendTransaction, createComputeBudgetInstructions } from 'rw-sharky-sdk';
 
 // Send with automatic retry, priority fees, and confirmation polling
 const result = await buildAndSendTransaction(rpc, walletSigner, [ix], {
@@ -206,7 +206,7 @@ import {
   findTokenRecordAddress,
   findAssociatedTokenAddress,
   findRuleSetAddress,
-} from '@sharky-tools/sdk';
+} from 'rw-sharky-sdk';
 
 const [escrow, bump] = await findEscrowAddress(loanPubkey, programId);
 const [metadata] = await findMetadataAddress(nftMint);
@@ -218,7 +218,7 @@ const [ata] = await findAssociatedTokenAddress(owner, mint);
 ## pNFT Support
 
 ```typescript
-import { getRemainingAccountsForPNftV3 } from '@sharky-tools/sdk';
+import { getRemainingAccountsForPNftV3 } from 'rw-sharky-sdk';
 
 // Get extra accounts needed for pNFT transactions
 const remainingAccounts = await getRemainingAccountsForPNftV3(
@@ -249,7 +249,7 @@ import {
   SHARKY_FEE_AUTHORITY,
   DEFAULT_PRIORITY_FEE,
   COMPUTE_UNIT_LIMIT,
-} from '@sharky-tools/sdk';
+} from 'rw-sharky-sdk';
 ```
 
 ## Architecture
@@ -264,7 +264,7 @@ src/
     programs/         # Program address + identifiers
   client/             # High-level helpers
     loans.ts          # Loan inspection (10 functions)
-    orderbooks.ts     # OrderBook inspection (6 functions + 776 names)
+    orderbooks.ts     # OrderBook inspection (6 functions + 301 enabled names)
     offers.ts         # Create/rescind offers (2 functions)
     take.ts           # Take loans — V3 + Core (1 function)
     repay.ts          # Repay loans — V3 + Core (1 function)
@@ -277,7 +277,7 @@ src/
     rates.ts          # APR/APY conversion (6 functions)
     fees.ts           # Fee calculations (3 functions)
   data/
-    orderbook-names.json  # 776 collection mappings
+    orderbook-names.json  # 301 enabled collection mappings
   constants.ts        # Program IDs, wallets, defaults
 ```
 
@@ -306,7 +306,7 @@ npm run codama     # Regenerate from IDL
 - **APY values on-chain are actually APR**, stored as u32 in thousandths of a percent (10000 = 10.000%)
 - **Token lending** has been shut down by the Sharky team — generated instructions exist but are inactive
 - **cNFT support** is present in generated code but complex (escrow-only, double tx fees) — deferred per Sharky team recommendation
-- **OrderBook → Collection mapping** is static (776 collections); refresh from https://sharky.fi/beta/orderbooks/nfts
+- **OrderBook → Collection mapping** is static (301 enabled collections out of 776 total); refresh from https://sharky.fi/beta/orderbooks/nfts
 
 ## License
 

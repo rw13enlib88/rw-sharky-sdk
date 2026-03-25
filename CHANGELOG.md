@@ -24,7 +24,7 @@
 - **Transaction execution**: `buildAndSendTransaction` with compute budget, priority fees, confirmation polling, and exponential backoff retry
 - `createComputeBudgetInstructions` for manual compute budget management
 - **pNFT support**: `getRemainingAccountsForPNftV3` resolves metadata, edition, token records, and auth rules
-- **OrderBook names**: 776 collection mappings from the official SDK
+- **OrderBook names**: 301 enabled collection mappings (filtered from 776 total)
 - Input validation on offer creation (principalLamports > 0, duration > 0)
 - `NftStandard` type ('legacy' | 'pnft' | 'core') for routing instructions
 - Program ID constants for Metaplex, SPL Token, Associated Token, Auth Rules

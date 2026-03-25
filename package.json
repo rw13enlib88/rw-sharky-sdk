@@ -1,5 +1,5 @@
 {
-  "name": "@sharky-tools/sdk",
+  "name": "rw-sharky-sdk",
   "version": "0.3.0",
   "description": "Modern, lightweight SDK for the Sharky.fi NFT lending protocol on Solana",
   "type": "module",
