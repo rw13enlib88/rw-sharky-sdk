@@ -92,8 +92,8 @@ export function getCollectionKey(orderBook: OrderBook): Address | null {
 }
 
 /**
- * Mapping of ENABLED orderBook pubkey -> collection name.
- * 301 active collections filtered from @sharkyfi/client v7 (776 total, 475 disabled).
+ * Mapping of production mainnet orderBook pubkey -> collection name.
+ * 181 active collections filtered from 811 total (excludes staging, devnet, and disabled).
  */
 export const ORDER_BOOK_NAMES: Record<string, string> = orderBookNamesJson;
 

@@ -83,7 +83,7 @@ getOrderBookApy(ob.data);             // 45 (percent)
 getOrderBookFee(ob.data);             // 1.0 (percent)
 getOrderBookDuration(ob.data);        // 604800 (seconds, 7 days)
 getCollectionKey(ob.data);            // collection address
-getCollectionName(address);           // "Mad Lads" (from 301 enabled collections)
+getCollectionName(address);           // "Mad Lads" (from 181 production collections)
 ```
 
 ## High-Level Transaction Builders
@@ -264,7 +264,7 @@ src/
     programs/         # Program address + identifiers
   client/             # High-level helpers
     loans.ts          # Loan inspection (10 functions)
-    orderbooks.ts     # OrderBook inspection (6 functions + 301 enabled names)
+    orderbooks.ts     # OrderBook inspection (6 functions + 181 production names)
     offers.ts         # Create/rescind offers (2 functions)
     take.ts           # Take loans — V3 + Core (1 function)
     repay.ts          # Repay loans — V3 + Core (1 function)
@@ -277,7 +277,7 @@ src/
     rates.ts          # APR/APY conversion (6 functions)
     fees.ts           # Fee calculations (3 functions)
   data/
-    orderbook-names.json  # 301 enabled collection mappings
+    orderbook-names.json  # 181 production mainnet collection mappings
   constants.ts        # Program IDs, wallets, defaults
 ```
 
@@ -306,7 +306,7 @@ npm run codama     # Regenerate from IDL
 - **APY values on-chain are actually APR**, stored as u32 in thousandths of a percent (10000 = 10.000%)
 - **Token lending** has been shut down by the Sharky team — generated instructions exist but are inactive
 - **cNFT support** is present in generated code but complex (escrow-only, double tx fees) — deferred per Sharky team recommendation
-- **OrderBook → Collection mapping** is static (301 enabled collections out of 776 total); refresh from https://sharky.fi/beta/orderbooks/nfts
+- **OrderBook → Collection mapping** is static (181 production mainnet collections out of 811 total); refresh from https://sharky.fi/beta/orderbooks/nfts
 
 ## License
 

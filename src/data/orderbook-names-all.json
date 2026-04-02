@@ -2,106 +2,132 @@
   {
     "orderBookPubKey": "7RFLpsTMoTL2HcpfESxxEBpiV9RVWGyZrkW9vmFpyc4o",
     "collectionName": "Pesky Penguins",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "devnet_staging"
   },
   {
     "orderBookPubKey": "HKAMjSq4NN6Rd5faM2jyBxYoTdhAV3RxmTSgmy7ftxWg",
     "collectionName": "Pesky Penguins",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "devnet_staging"
   },
   {
     "orderBookPubKey": "eN1gSfK6jNZLkD8qmcQ6xruj1nwhN2PSpyttwWs3MzY",
     "collectionName": "SMB Gen2",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "devnet_staging"
   },
   {
     "orderBookPubKey": "4xigLZArP7frcVHqcdTgpYcCdxidgJ2dhB7xhwVCUZiP",
     "collectionName": "SMB Gen2",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "devnet_staging"
   },
   {
     "orderBookPubKey": "2DJs8MNjtWseyMLrT8DaB1V6YmaFnZwhtBBNG2BmxcJK",
     "collectionName": "Pesky Penguins",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "devnet_staging"
   },
   {
     "orderBookPubKey": "HPKS4fCxjC6s6qfHB9VgJS1dojEansKemKpSHV2R6VcU",
     "collectionName": "Pesky Penguins",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "devnet_staging"
   },
   {
     "orderBookPubKey": "HnkYeR99LTuAeQxWryRPnSxxeTYWJGpSZXhbqjpRoL7d",
     "collectionName": "sharx",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "devnet_staging"
   },
   {
     "orderBookPubKey": "94WbE44Dz1gz3QBpGge1S225AJmSdXoz9BEjAnemVszr",
     "collectionName": "Pesky Penguins",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "y1Yq273w9YYAvVqFh9eMUkZPbDY8JA4du8SmAXr9ask",
     "collectionName": "Infinity Labs",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "BBCqZMgRQ5EFxmMRD3jj3uZqAnnTiFanuFW3KEQqUiHd",
     "collectionName": "Infinity Labs",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "CSdBzXEkEdBa4bKfgYGVz5Rpv9d8DD8JM2LJdwDa5aTM",
     "collectionName": "ME MIP1 Test",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "9MWmUVncpTNzdC1n1ZB75CfUXFaFN81FrjxKh44cs7uG",
     "collectionName": "pNFT Test",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "2ALXmyUQ7DqFoNfCNroT8fNRzQVyRpbpatoiV5SAEiug",
     "collectionName": "Nerdy Ape Hub",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "DNj4FDkaCfUGhX7yMimVUnfHJWjer67EEFqiRx5sNaaJ",
     "collectionName": "Wakuland test",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "Arro1ApDWLc4uFNV8Js3BHNJs2ktSm8gBgjhHMTzk8qa",
     "collectionName": "TEST PNFT 1",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "EnA3rAx886c1dXJoesCSprT7sCefN2byQ6N96pz3xY78",
     "collectionName": "TEST PNFT 2",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "3hxEAxDe4RAwHqYqMW5fjemt4uBvHJg9p5THdYMc4inE",
     "collectionName": "TEST PNFT 3",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "Em7NMYTRXr7yAwLZKvdv9emT6ofWtZTerCsyioiGREYy",
     "collectionName": "TEST PNFT 4",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "HnEgRF5BuuYSaQ8Yk8g2U8MMkdh9nv1hsm28tY7F3Ri8",
     "collectionName": "CNFT Test",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "A2okJXR7pYKTJw4yswq2bsKDJ5ESs9kcrK3dWeoFfDjN",
     "collectionName": "CNFT Test 3",
-    "enabled": true
+    "enabled": true,
+    "environmentName": "mainnet_staging"
   },
   {
     "orderBookPubKey": "3J68CU43SnaZTtiVmdwNvApHrpKNbFv59xK3fvWGt3m8",
     "collectionName": "DUCKZZY ORIGINS DAILY",
+    "enabled": true,
+    "environmentName": "mainnet_staging"
+  },
+  {
+    "orderBookPubKey": "3mNzSMMfEdi8JTCTZjnP1vrfyyNgvbu9ve1UJYNVZfdH",
+    "collectionName": "<Player2>",
     "enabled": true
   },
   {
@@ -127,12 +153,12 @@
   {
     "orderBookPubKey": "6dVkZhpPyZeUZ15wrC1kNK3gmG839BXLSW4QrVrCSSP9",
     "collectionName": "a2z DAO",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "An18C2FozPD42PnCW3Q1nXoEtcFnqbLALan3KEMwVnL3",
     "collectionName": "ABC",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "GoMTvTNJjcCZx5RhEqsjDqrAMFFW5TJQQrhjGJQBwygr",
@@ -152,12 +178,12 @@
   {
     "orderBookPubKey": "DuokZiiQ2wHxiiq9FXZa12NVSnK7SXmWFvSBVbCTSvpr",
     "collectionName": "AEP Life Form (ALF)",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "6X1Yg6w1U8b7mcHbS7pwo2zvLyM8NuM2ZHmkJ4UWyRHz",
     "collectionName": "AFEL",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "5o92NFAtE9ThSrjsLH6mm3D4G8c2SguGaMmGT51zVSg1",
@@ -177,7 +203,7 @@
   {
     "orderBookPubKey": "FZ8mS657pwUbzSZjzxaYwiDP8QPojCxBzczzNDwjfsUD",
     "collectionName": "ai16z partners",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "5Y2KbbFvFxEeuCVjJmcY6ZVL89yGAPEhRwaWUnQURm4B",
@@ -232,12 +258,12 @@
   {
     "orderBookPubKey": "9oG4WASVGNZQtn1URXKfeqRRDLjUKNMFrRgX561rL9pu",
     "collectionName": "Anon Evolved",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "GdNTchHXGucsoFrPSVUQPx6q56QvDQho3CrCJt4Ptfi7",
     "collectionName": "ANYBODIES",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "7YZj9e8GxUmLKfReLRseRki4ByMRPFuhzQGQXa2bsbox",
@@ -272,12 +298,12 @@
   {
     "orderBookPubKey": "EfoFNRjZVLzqfdoMzuMsJ7hsRyEMX3JcVCPdBKaqMCc3",
     "collectionName": "ArtPunks",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "Tvh5FvqyGbP9YKFZXbAbG9BqPLfNpGAGqqwALTQ2nfU",
     "collectionName": "AssetDash Vanta",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9QsH7dhhDAWLdiG7wjXJ82Lc96ZPAvnaz7JoVYJwo9jD",
@@ -317,12 +343,12 @@
   {
     "orderBookPubKey": "EPPGkdqJSbaWNHo4KJoundPEcuZUdEEqJafTXJugCwxA",
     "collectionName": "Autismo Step-Cousins",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "pGoPxoWEuzTx7VCvdLh958TXuE1s3eGCJE2QfL4k4v1",
     "collectionName": "Avotar",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "GyAecDfySYfebR5FW2ccVhRtGFscT7VCxBs8f1c7Zkup",
@@ -337,12 +363,12 @@
   {
     "orderBookPubKey": "3rgY8DEpRasLbU6QuYPAnwy86ph7uhXbDC6kxtBddJRe",
     "collectionName": "Bad* Environment Club",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "FMkgsFB79ZnUNikjttHhfyVBfaLMM4eGRajCBAXVNKE",
     "collectionName": "Bando Kids",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "AvwJkrGhu7hsMjLdwzHYiPqLbKzKQsywkKrixZhK4Xy8",
@@ -362,7 +388,7 @@
   {
     "orderBookPubKey": "BFDmFMd8ferdkXbpR8k5YPJ311dTGAxg6n3ukMFmNqsA",
     "collectionName": "based stacc 0",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9DEsruE3FzBorj1BZYX358VCWU3AEs8D7vcjqcvym1Zu",
@@ -372,7 +398,7 @@
   {
     "orderBookPubKey": "2xH9tWoVqgkvXhMu1erAG3ye1oXi9Q4SWyu76mLjf9fv",
     "collectionName": "Beans by Raposa",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "3dUqrnBDimZiXctwEMz7jeDJ9nBcwi6oRyBBP99JJfHN",
@@ -405,6 +431,11 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "7GTG2TV5rtxQeUgB8MN3Fk7bAuBjhXUek92Y8sDJSfGK",
+    "collectionName": "Bert",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "ERWMSg8pYtZJscwkoeSt7JXiuAvWEsQ23U3NGh4PWEqw",
     "collectionName": "Best Buds",
     "enabled": false
@@ -412,7 +443,7 @@
   {
     "orderBookPubKey": "73LnqVswvoYderGHGEJgNU7FHAh68z3M6u7QahAesGMe",
     "collectionName": "Best Buds",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2yaSK3v2gmnXv8WycKCx5gjenVtzLoA3o4g86No8zwhT",
@@ -425,11 +456,6 @@
     "enabled": false
   },
   {
-    "orderBookPubKey": "HLxwZ5ZBPDDv8WaAJoAbB22yxZdGPvFvopTUnFGvLLvr",
-    "collectionName": "Birds Aren't Real",
-    "enabled": false
-  },
-  {
     "orderBookPubKey": "vQ3K79xoCmucDpkb4VB3bgzQXXE9y19MZuQafGNiH5U",
     "collectionName": "Bit Warriors",
     "enabled": false
@@ -437,7 +463,7 @@
   {
     "orderBookPubKey": "ES8e8REyNBcX9Fae2piF1ETcNwjn8ZbhsppcV5TMfvVQ",
     "collectionName": "BitBrawl",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2hNG5Tz5J7CFMsKE5Yo9znYfva1QfK9DasFQ35aeF8g4",
@@ -452,7 +478,7 @@
   {
     "orderBookPubKey": "AFn3o1FcoM5mTdEBiL37GtfMXzFjmebevEKXwchF6CDo",
     "collectionName": "Blockasset Legends",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "7XsLCBbmqfGKTX7UEfZiTUE9FVPXv3h3qHy66nT8KTGH",
@@ -482,7 +508,7 @@
   {
     "orderBookPubKey": "4WakAKCjYT5NRuW4YBKQvXwnMATszCywzB9taBrcMVnK",
     "collectionName": "Bohemia",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "GyEftrDrPHzJrGzDjA3avb4Cp4qrqZbnzaSdfDNUNMS2",
@@ -532,7 +558,7 @@
   {
     "orderBookPubKey": "6hthxTrRELgojgSrXbR8ruJZt9Y8hgwq2KQUN29qmGEp",
     "collectionName": "BONKz (Unrevealed)",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9tsPpk7uFLBA6xusWS92jbx7ZrxvWAPhypDGSvDzqXXy",
@@ -572,7 +598,7 @@
   {
     "orderBookPubKey": "GkSxfdpjFu3vJUKDtzztuBEwf2VrTPmFmprp5asNR6t8",
     "collectionName": "Bozo Collective",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "DMymDzcKcV2ymXzJJg4gXoX2Q5buzNNzDxn34WnoqDYb",
@@ -632,7 +658,7 @@
   {
     "orderBookPubKey": "8HSRxgRHf9eLvzHfQRn4iHddhLVhHemzVnto6TKwCZme",
     "collectionName": "Bullyz Crew",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "DxBPJ9RttmB2ZrwMLZMymJKHWrkLx2M8DcFivcG6q6yy",
@@ -722,7 +748,7 @@
   {
     "orderBookPubKey": "56gFJJ1GMuh2YHH3t4PkLNzL1RhXj8Q6UZJb28G8uJhL",
     "collectionName": "CHILL GUY",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "Gm9pQkbsuLtXKP2z96bCeCBNT4QMXfgXqUT7ZUuvkZxj",
@@ -732,7 +758,7 @@
   {
     "orderBookPubKey": "HLUqWiemgEPdfz9w5WeP4nxsW3JzHayQX6n3zbTVGnaT",
     "collectionName": "Chillchat",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9ySuwXyWvFvWifVfbAYDGGMy7CdndEfX6efGt1yQb6dc",
@@ -742,7 +768,7 @@
   {
     "orderBookPubKey": "5ocFr92kMhbpzLiWGeFjbspWE7N4g3hxiK5NfKqKFZ9f",
     "collectionName": "Citizens by Solsteads",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "5Qjuwat77TeBtcVg4weeieh9aBQ9GcBHSi3hQT8avwyt",
@@ -792,7 +818,7 @@
   {
     "orderBookPubKey": "7uzbiN5YoMPcX1m9f5jxdbHqTQ2cvtM1rFgTKCQG2M4M",
     "collectionName": "Clear Collectibles",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "8QizjcBwoJHtBmkTqhkU4KhBoiVT1444hRorp99pU9yX",
@@ -867,7 +893,7 @@
   {
     "orderBookPubKey": "6E33kBnFWMVouigBzawsBkyqcvbaqqrLBPzqjPZ5rrCG",
     "collectionName": "Crypto Cowboy Country",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "GZSzKWQYk1AUdraRjLHU5rEMr2UP6poxmsh4fZRHb7Ck",
@@ -917,7 +943,7 @@
   {
     "orderBookPubKey": "EobeQZX1P2aSejXCdMg5qSjDAZCNLGJ8tYKdEyPs1s4w",
     "collectionName": "Dandies",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "HRSWHYrKNSwhRi2ktg72znV3gCZ5uBLbnbfL7TBzjY2q",
@@ -927,12 +953,12 @@
   {
     "orderBookPubKey": "CrdwR9sYXFt5YTSPUQfftRCeFehih7McvHG715nv4ty2",
     "collectionName": "Dappie Gang",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "6wEkzyWC6naFkHRRZosCoypxUT9XFqZXWLLqz69b3svr",
     "collectionName": "DAPS Collective Founders Card",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "77MNw2x2AJT3P5Ea1Yg81DBguKZMXvTnoFBYwWEixGPj",
@@ -942,7 +968,7 @@
   {
     "orderBookPubKey": "6BMHJcR9wGB4V8Z9JAEqhxSZjmrsbqx253JPAX47Tgix",
     "collectionName": "Dawt",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "7euLwMTdBMxWCsKmpkWpxCHChT8SZtdcPNBzcJGkm3kR",
@@ -957,7 +983,7 @@
   {
     "orderBookPubKey": "RU4Nj23JHbnonAskwpEjRrCPEADyiraZMu6rg2b3yrL",
     "collectionName": "DCF microshares",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "8TSrxG8GPLpy6XDnGtbgnbE5hrwGkF78chWzXTguFTn8",
@@ -977,7 +1003,7 @@
   {
     "orderBookPubKey": "EvRMHrEpXdSGWL3Hkp6iW33swrQQXpKAEeTDcwKCSu9W",
     "collectionName": "Debonair Degen Hawks",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "F13rXMWu3rjLkSr7Q4LWZXivc2rXAAAoXLwni8hTevUU",
@@ -987,7 +1013,7 @@
   {
     "orderBookPubKey": "DUue7UMu3Q8pikLY8x8tgfjvN755ekNqooCDBSfembzU",
     "collectionName": "DED ON SOLANA",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "HnUg9gViy4eLTsxhjrZSg3uGB4giQuuBanK7ewTebD6z",
@@ -997,7 +1023,7 @@
   {
     "orderBookPubKey": "97EyBrFqZLFgxL5dwnkPTHAmyD7stffuYx6WLcRdeMea",
     "collectionName": "Defi Dungeons",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "EqbvyNTS7yK78PFhcXXg8jPEGVuCLmJtpoSMrPs1S1b1",
@@ -1007,7 +1033,7 @@
   {
     "orderBookPubKey": "8dU3A9QPJ4QqrVcesdMV2wRvVtXRwetBLxeTmRbcM42w",
     "collectionName": "DeFiBookie.io",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "7Qp7dNtu5J2KQbJXwAdWiKD5EkqCoG36vWFaFywfPv3q",
@@ -1022,17 +1048,17 @@
   {
     "orderBookPubKey": "Hq1sMcQVoEikLHimYtgFjTe5pCKQXEXxdMZ6fMkMnfbB",
     "collectionName": "Degen Fat Cats",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2Mkk1EfgJHp6Zv2crDJaegut6qtGF6YRbc73GJe45Me1",
     "collectionName": "Degen Invest",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "8kesJY8jweBxkjbqVXKzy9PqXnKtvW3XSVjiwkG6rbHj",
     "collectionName": "Degen Legends",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "JFfNLp8h8syQgAfB62EKgjeuEFgaVf3zpQoWTQ9wCDU",
@@ -1057,7 +1083,7 @@
   {
     "orderBookPubKey": "DMhBB2W9EbHQTwrboEeb9aZ9CDNncbYr5JUA2T579i1D",
     "collectionName": "Degenerate Ape Academy: Higher Self",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "A6BdN8yuRMkee3aHbVWysQccHLHNAbDiW37PBSgp9EBQ",
@@ -1067,7 +1093,7 @@
   {
     "orderBookPubKey": "DyJkskdV9QMevdhhsZncfei8rmUrSK3Z2RYr59Rfrs5D",
     "collectionName": "Degenerate Trash Pandas",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "E1Jv7gtzfYroecMgsEMPQ2Ux1xxx1NK9LhXV1FLyx74b",
@@ -1102,12 +1128,12 @@
   {
     "orderBookPubKey": "A9kw9CxqoiqxANA2yEga4YCfv8r3QTA4t6UKrLnGuYAo",
     "collectionName": "DexterLab OG",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "3sX6bcvKpiTeikjjPqUqBBvpEECQtYcy65vG6uYvV3PR",
     "collectionName": "DGS Gen1",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "JweBS5FgLXqDBoU349X7JZzF211jZZ3F1fHYGXcSijJ",
@@ -1132,7 +1158,7 @@
   {
     "orderBookPubKey": "CZRBzvVzk3wW6aqc5he5rfqFEc4Zp5EJ7zuQHY7QS5JV",
     "collectionName": "Divvy House Pass",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "4A3K1NPX7SLaJ6GUWdPoLHe5vbVz1ZVtGkH9EftHB6P8",
@@ -1142,7 +1168,7 @@
   {
     "orderBookPubKey": "DgPkzBd8JpC8W3ZQmxjyXEG2pSugrk8XLSxzg9qEWEAW",
     "collectionName": "Doge Capital",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "7jVrLg3hu45nynukLzERDUj4Dwefqbx9XdB1MHRV9vN4",
@@ -1155,9 +1181,14 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "4FE37VRoTVYXvSGFhbyfNjEKTdojtikVcKHfxNVtniW6",
+    "collectionName": "Doopies",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "GXB5TmTPPNdHWMEMGJndVgSmsynaH7uzZbQWmh35TTun",
     "collectionName": "Dope Growers Society",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2fmf8fqYwf2qZ2BKgKHYJPwndCD9MUwXoNSB1tWezEzo",
@@ -1177,7 +1208,7 @@
   {
     "orderBookPubKey": "RRS7pN2oTXDwhUURUVc9C829ovWfRrMRWYwNg9LBfE8",
     "collectionName": "Drippies™",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9oSjfQuwEXpkTDZoy2ycRmzRu1oHoHeim88MRWbCa8m1",
@@ -1232,7 +1263,7 @@
   {
     "orderBookPubKey": "8HGVaxkcoFqZHVtuXM4dAzbT8uYtTtdNztHgFP97ZhnW",
     "collectionName": "Dworfz - Abbathor",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "7N4MKNzWan4L7EwGA9poUt2HWLu7URRkQkfK9uQjkuVZ",
@@ -1247,7 +1278,7 @@
   {
     "orderBookPubKey": "Eze3tvw2NdeQPHqhkuQUNsVmRcbrqwDDmpdSbR5sZVmW",
     "collectionName": "Elementerra Rabbits",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "DwSmRYNiRoqhK43hasGMTcNGtJFFGsUuBRfuKLjtZNqH",
@@ -1257,6 +1288,16 @@
   {
     "orderBookPubKey": "2LAL6ez8iUzQvAKeXuh78czmGjns5Kz45u4g36ipwYs8",
     "collectionName": "Elixir: Ovols",
+    "enabled": true
+  },
+  {
+    "orderBookPubKey": "7x72EsE7bPYsgiyGqFjybV2chLjaaW1MQKSqd8JM4khY",
+    "collectionName": "Enchanted DOGE",
+    "enabled": true
+  },
+  {
+    "orderBookPubKey": "CPmcLFpEMMWPqbB16acAqBNA5DE9u5AR6KK5xbESNXHd",
+    "collectionName": "ENCHANTED MINERS",
     "enabled": true
   },
   {
@@ -1272,7 +1313,7 @@
   {
     "orderBookPubKey": "5kQ4WnxUtU2JKTfHjyNbRi2XYXJCsb8sLcXX4abrUzqJ",
     "collectionName": "epoch.001",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9Unt1XHZmN13S1VAso7qWzdXeV8iCm5xANHcUhx74fkV",
@@ -1312,7 +1353,7 @@
   {
     "orderBookPubKey": "CJ8SonsejZd7mrynWSTC9RDU9oAkdCcDKTQasjuDLZGM",
     "collectionName": "FartNFT",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "8QWYCXWafc9KZd9UxDJbK5cq2MNyVo1REVFttEW76vSe",
@@ -1347,7 +1388,7 @@
   {
     "orderBookPubKey": "2Gye3WVekwkgZb24FYsTRWDLyAaK6vdPVUVbCsdsFXib",
     "collectionName": "Flip.GG",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "AhV8f9NyUpKtvHD1t4X96YUK38XXUZLS6RoY1M2EdSQ9",
@@ -1372,7 +1413,7 @@
   {
     "orderBookPubKey": "DeCQdHCSjEvXmYdekPaMRnJY1djo5sc4FgCCw7WpFqrx",
     "collectionName": "Founders Coins",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9FvkMgiKr93g3qo4jGiT2dC2nWSW55dpiDYutxqaiSN5",
@@ -1392,7 +1433,7 @@
   {
     "orderBookPubKey": "4FLvtHs9dvBawU4q1cvt3JeXHEQmvS6u9KLHzampm1qj",
     "collectionName": "Fred NFT",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "6XPvCp6dkpAjAnc3Lnt11njVpzXb1fMwAFx4p877VyU9",
@@ -1427,16 +1468,26 @@
   {
     "orderBookPubKey": "4D8buxB4wBquP8Y18gY32jkPmjSpcC1MtQruEFGkdScA",
     "collectionName": "Future Traders",
+    "enabled": false
+  },
+  {
+    "orderBookPubKey": "5WpRCSPvo7RTLm9CZYPZegSpjqxVj8Y4q3Qvj3LHhbB5",
+    "collectionName": "G*BOY Badges",
     "enabled": true
   },
   {
     "orderBookPubKey": "2vFF1NkzJAdivyPdHWoJLuH1YFzpEkVxaadGHnhh6fdx",
     "collectionName": "Gaimin Gladiators",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "6qT82NrQUJUbvu3HwByJtQVWvZw7eYSf1BLS2rVisabg",
     "collectionName": "GAINZ",
+    "enabled": true
+  },
+  {
+    "orderBookPubKey": "7wopyueeogMPJaQ6zSc2RQMhJCvuoK6EfaUoy5iFdSct",
+    "collectionName": "Gamba Dogs",
     "enabled": true
   },
   {
@@ -1447,6 +1498,11 @@
   {
     "orderBookPubKey": "12knhhvSRgWMWjc7knNXSvdxrD24FtcasAkJEfUDLnmn",
     "collectionName": "Gatos By Basebet",
+    "enabled": false
+  },
+  {
+    "orderBookPubKey": "2cw8d98eayfRbVX64CkLyQxLXZLtQYT6TC26ckuJGq2r",
+    "collectionName": "Geeks",
     "enabled": true
   },
   {
@@ -1477,7 +1533,7 @@
   {
     "orderBookPubKey": "J6nJ2PmphDLFc94kbKnihAQpzmr3uHmYW9wVtMR6WfFb",
     "collectionName": "Ghostface GEN 1",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "5Pw1hC8xJ8NuJTJGCkscyyJMxBQRGosX11MWoFCZn223",
@@ -1537,7 +1593,7 @@
   {
     "orderBookPubKey": "4egzVMar8M4CPpjvttiLeRUGY2mjKsnDoWgk4ZMiDAAL",
     "collectionName": "GOAT",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "VVuSAspxqeo2HS88SNDvYJqQPvXyqxTSTCBs65Wxd7r",
@@ -1557,12 +1613,17 @@
   {
     "orderBookPubKey": "8YWPutChRuiBpXyDAX4nBKeZTm9DyCFqEhk6QmKC5Gge",
     "collectionName": "Goons Club",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "CmiMEYEQk3hWVgBAzytcRrrAv5wkg48zcteTf3gEfF4F",
     "collectionName": "Gooze World",
     "enabled": false
+  },
+  {
+    "orderBookPubKey": "CJcA2eC9tY8mpkPRHvtgg7SFKhzXL9KNGQnipywJPwLC",
+    "collectionName": "GORBAGIO",
+    "enabled": true
   },
   {
     "orderBookPubKey": "9VpbQvtDcqdUURxGsh4WzRL9V43yST6nZcYa7HX8ki2E",
@@ -1610,9 +1671,14 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "EhckHKZcMkL2ANe6mNPa8Eu9q1DNnScor1LyDSiGrU2c",
+    "collectionName": "Haxz",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "59HFw6ftN94UbqQrkfnqeFBe7fJbvbmErsMgZaNeqBCe",
     "collectionName": "Helions",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "C2dN44DvNW8FtP79MEMyA3LrEsnSbtMm45UPaEHftZKn",
@@ -1622,7 +1688,7 @@
   {
     "orderBookPubKey": "Bn4WWVkTJix7HYmH6cq86gZZobMT9mU8KWFMWHzJMcUH",
     "collectionName": "Hermans",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "3i12wSQTRj7trvap2eBLQKK5rqi6sUSJHY49K2H4e7Na",
@@ -1690,6 +1756,11 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "DhPBxjkseRSCk8ytQm8Y4XV2dzrxxpJTGjELZeaeZrCV",
+    "collectionName": "ICM -Investor Center Cult-",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "E7XUUQt15uF5fsLhm9nBAxb4B5fvUzwK4ErVKbgvdzDB",
     "collectionName": "Immortals",
     "enabled": false
@@ -1697,7 +1768,7 @@
   {
     "orderBookPubKey": "4cJD2YMvgc6rCB64L4dMGwaEs9Wz5jet7mTSC79G32ng",
     "collectionName": "IMSO Evolved",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "DipwJSf5XVreDk2TWW8fq2uAaW8sz4m6NCkK14y36DfH",
@@ -1737,7 +1808,7 @@
   {
     "orderBookPubKey": "5A7mLirEu1YW6zzyke8yURcZYrUR49fysLh8tDeEv1s9",
     "collectionName": "Jelly Rascals",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "3y2i1UJ9r2yezyoJtzpCjFSVDLG2EeQmi2kL7ueCnBXZ",
@@ -1748,6 +1819,11 @@
     "orderBookPubKey": "2qGfdRuJ9Y5PCnriwBG35e9hTDpqrN2mMygJ6SiYMZtN",
     "collectionName": "JellyDawgs",
     "enabled": false
+  },
+  {
+    "orderBookPubKey": "45GbrPhzYZPgamDfasjAF3qt7M4X5ZcAr3HYhcVfPnMK",
+    "collectionName": "Jellylore Club",
+    "enabled": true
   },
   {
     "orderBookPubKey": "GFT8quNKDFT69TARyjecydATqpXgCbhNvYntAh9MCvMh",
@@ -1762,7 +1838,7 @@
   {
     "orderBookPubKey": "BCQX5poGyQnm5r3KAWYQvyV9NnZMDL8N55vVEU9T54u",
     "collectionName": "jpegs.fun Secret Society",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "BUS4ikKfs4LBKhipH7wmMimqCHPtyX6MtcUM1NuHDtxz",
@@ -1818,6 +1894,11 @@
     "orderBookPubKey": "3dabeQGBbCJXSBD5g7Wn17yidQMJXUUf9S8C2jtYS3j4",
     "collectionName": "KikiVerse",
     "enabled": false
+  },
+  {
+    "orderBookPubKey": "5nwobqMSsWA4pAefsPRSvPvmSbEeNUM1nv7ynJKWqkdr",
+    "collectionName": "Kinfolks",
+    "enabled": true
   },
   {
     "orderBookPubKey": "FwQe7vJogwffMiEq1aosykZV2JrEXQK39BusjKx4CRgy",
@@ -1932,7 +2013,7 @@
   {
     "orderBookPubKey": "CLnxNnxEgxuNTfDqzh6Fqj6A87fNZa6WwvwTB7k5N1eR",
     "collectionName": "Liberty Square: The Sinister Squirrel Syndicate",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "4Lmt2wLFLYbptyrSCQuSepmzMiGVeYta9FmRAnU3R12X",
@@ -1945,19 +2026,19 @@
     "enabled": true
   },
   {
-    "orderBookPubKey": "Fxfm6LYSKLxWUrwGicYqdAWeLFQ5Xfv3PU9SLYKi7FEL",
-    "collectionName": "Liko's Banana",
-    "enabled": false
+    "orderBookPubKey": "GxDVNKA2VUb9XeqrQFoz88ECtLwYdqdw2AA8itd5CxJj",
+    "collectionName": "Lil Chillers",
+    "enabled": true
   },
   {
     "orderBookPubKey": "GxbDm6vqyHA6cKR9ECo7H42Hc2MHdZNwmLXaXzu4VvK4",
     "collectionName": "Lil Potates",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2dz33qzKLnSb6ibA6CZhDc7YZAw6EGz4aGoBp3DZ2AHb",
     "collectionName": "LILY",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2eJH6W2czdCWgabfV3GM6mrd5u4qXMYCymTL6N4xr5sU",
@@ -1967,7 +2048,7 @@
   {
     "orderBookPubKey": "78j8mUBM14YVQoFZykukQiNumn5TqXdsR2xUSS45aoMj",
     "collectionName": "Liquidity Pharaoh",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "6Rv7xZQdsgunArSS4RxwnTaqXRJTrXDKjaVqTdtXduMS",
@@ -1992,7 +2073,7 @@
   {
     "orderBookPubKey": "AK6S1N2NUWjTqNPwHsE8HGx5LqaPWgYo1X1Z2yXekiEo",
     "collectionName": "LUCES",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "5vr2CkzTyQVZ2z17eYtCuysD6EfihKnZ8B48kLzu9gnw",
@@ -2040,13 +2121,23 @@
     "enabled": true
   },
   {
+    "orderBookPubKey": "6n5UCoC2db24qN24AWGJtNHjkWcSqjk6XYC55T7dKQGU",
+    "collectionName": "Mage Labs NFTs",
+    "enabled": false
+  },
+  {
     "orderBookPubKey": "Bt21MpcLU5KArq1WHBjt3qaCC5X1M9FbtiiPqB2dRa34",
     "collectionName": "Mages v1.69",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "C7KH7qQMQ4QFPmAoFs8mktnSv6K4c5WMyvA7NvKXWMZv",
     "collectionName": "Magic Ticket",
+    "enabled": false
+  },
+  {
+    "orderBookPubKey": "AgUW873o6FcGzXrtwr2217aRsejjnNQbnufAuBgYZ1qM",
+    "collectionName": "maikers",
     "enabled": true
   },
   {
@@ -2067,7 +2158,7 @@
   {
     "orderBookPubKey": "3CBNipV6cQ4xyxRZyzVYQPQEUvNuUEbqrUidjhjHSZND",
     "collectionName": "MARMS",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "7yJpf4UzKkeWveDvW6KmHunbuXRAEZdcwgcv4zMyNU5y",
@@ -2077,7 +2168,7 @@
   {
     "orderBookPubKey": "HEKEznc6hjGFFvjgkgVnhnrbpLg7AB8mh5vfBH96VDfM",
     "collectionName": "Martians",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "Don7pzRgGYmHWRSJrS6J3UfZfHTkdPzno1LNPWqCgBqZ",
@@ -2087,6 +2178,11 @@
   {
     "orderBookPubKey": "2Cy5PohJpGJsXFN58GkyYqASakkgUyXrXZYuEFgpximk",
     "collectionName": "Matrica Labs: Pixels",
+    "enabled": true
+  },
+  {
+    "orderBookPubKey": "6k66g1PenyndJCj5jBGERE2Ef6sgY9xEdtEyGsRy98pA",
+    "collectionName": "Mavrix by Jelly Co",
     "enabled": true
   },
   {
@@ -2115,6 +2211,11 @@
     "enabled": true
   },
   {
+    "orderBookPubKey": "FZJPRfiL6sBjvgPcHpZnWdkaiYoADxT8yrCUBHPRk2Vq",
+    "collectionName": "Meme Militia",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "2ef7ghdBQX5cgaBzKFXjf6AhJBVBC29b5yWzp9pKwatq",
     "collectionName": "Meta Tattoo Club",
     "enabled": false
@@ -2132,6 +2233,11 @@
   {
     "orderBookPubKey": "2DjnQGjXwGrrqz4V5vdskCo3uFf2Lw9GQWPh8xXSNiBr",
     "collectionName": "Mida DAO",
+    "enabled": true
+  },
+  {
+    "orderBookPubKey": "8UdxDZSinZdBTJ4b3PJBx9fEaVXT4UhKGDb6DvXELGsz",
+    "collectionName": "MidEvils",
     "enabled": true
   },
   {
@@ -2172,7 +2278,7 @@
   {
     "orderBookPubKey": "757m7NhcGgMpABLt5QoKtLJ7vQGkLaCMpBTY8Eom133P",
     "collectionName": "Mixies",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "CyMGmSF36WV1M1SiXBtfgDMv8Cjqrv28n1gFv3CbuJ2D",
@@ -2192,6 +2298,11 @@
   {
     "orderBookPubKey": "Gr1Nehyw7GEsbGcuopU8df61GnbxcVvF4PMx8HtVgTFB",
     "collectionName": "Money DAO",
+    "enabled": false
+  },
+  {
+    "orderBookPubKey": "Cj5nQohnujQiMKGGkeEUcZdBxSd6s6dHWqfriLANrt9Z",
+    "collectionName": "Money Masters",
     "enabled": true
   },
   {
@@ -2217,12 +2328,22 @@
   {
     "orderBookPubKey": "9nEyXQk5dGYehoV4HgKBB1U5dAJqYEPHjXiSnpiLAafW",
     "collectionName": "Moonies WTF",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "AF1JtCWgPRUKk6S5znp9xhgcby6PoPhDkxDZUrCmKjSw",
     "collectionName": "Moonly",
     "enabled": false
+  },
+  {
+    "orderBookPubKey": "9oMdUqQWq2qsNjLgU9DfYA2566QAxadeDNkJmGZwbHD4",
+    "collectionName": "Moonsters",
+    "enabled": true
+  },
+  {
+    "orderBookPubKey": "FW2B8guKS5smtCUyhC8dXKq9dJwwVcma9XBmwVjZp9Zc",
+    "collectionName": "Mosciun",
+    "enabled": true
   },
   {
     "orderBookPubKey": "AmorqeH5MTVBX5uDTqGY7vdundoXkdcipLnEUYXEtWe",
@@ -2232,7 +2353,7 @@
   {
     "orderBookPubKey": "5GQfE283XrfhbXhiYnyt3YkdGb8drtVanj6aDfRDF74A",
     "collectionName": "MUMUS",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "E2QkPmBWpHkMRysXktJcKowtg6sDpjRZ6Yha6XpqfMig",
@@ -2295,6 +2416,11 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "4pRnF2Nk5qyuu3oueqiNMdCLawGF8UfJuUiageUZJtgy",
+    "collectionName": "NOCTAVIA",
+    "enabled": false
+  },
+  {
     "orderBookPubKey": "Gwd4kz6oAtEftJsDsu2mMq2DZK4e7LWXT9tia8AmvFLB",
     "collectionName": "NoHoomans: 2D PFP",
     "enabled": false
@@ -2305,6 +2431,11 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "B5m5Z6imW7rt7VhG1RcjL63Ecfr91jrHTeJQx5HAVVSA",
+    "collectionName": "Nomu OG",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "52DJeBNZmjksswtBEgbvqG224yNihtM2kkdLti2rf9jj",
     "collectionName": "NOTI GANG",
     "enabled": false
@@ -2312,7 +2443,7 @@
   {
     "orderBookPubKey": "8dCv2Q2HCnvAThwvs8BXK8DDuTmLzEV4HvHY5Lw42pAS",
     "collectionName": "Notifish",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "H8jh2w6u9dA2Jhy31Y1QFAevoATy1fpfAm8krv6B3GJ2",
@@ -2376,7 +2507,7 @@
   },
   {
     "orderBookPubKey": "H9W7c923PFgEEKF2vTsie6u5ykYsfANc2HgLZYcQ6THm",
-    "collectionName": "\\xd6neira",
+    "collectionName": "Öneira",
     "enabled": false
   },
   {
@@ -2392,12 +2523,12 @@
   {
     "orderBookPubKey": "GSfvjytfemrpwgCjKEem4enMCywoH8y4wUJByszmMHH1",
     "collectionName": "Oogy",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "CA5cG8QDNp9UAXK5iNUtJk5Y6fZPKRJMkSBkbeu1JCHL",
     "collectionName": "Oogy Archives",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "7fRp4yNsbwcCRdVvtFUrpWJ91LMk1rpDLngjtpEZtizJ",
@@ -2407,7 +2538,7 @@
   {
     "orderBookPubKey": "BfgnP2ZVTJ4YtLvVxrBXL7bBpE73m6GQpcbEW3dZzSXV",
     "collectionName": "OOZ & Mates : Spaceships",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "51sCrYhqWFJ3t5maqesFmoG2ii3QaFfynN6ENDVRxVH7",
@@ -2417,7 +2548,7 @@
   {
     "orderBookPubKey": "DrgDSCJ5YCPoGms7RJYPf4tNxpP39eJyiRS5EznMS9Wx",
     "collectionName": "Orbital",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "4s4W5T5gLdzEaAU7oGtwRn2hDi2BxfHc141i2gKBJVKt",
@@ -2438,6 +2569,11 @@
     "orderBookPubKey": "CXMPcBjYt55vb9zWSj7pvVwaSSH6PfQkHgdnAKyHSR2i",
     "collectionName": "PALS",
     "enabled": false
+  },
+  {
+    "orderBookPubKey": "5hMeQsQ3pNnYvCb16qCVwo6qtkoh5Ja5yJgvrUeTzFor",
+    "collectionName": "Pandu Pandas",
+    "enabled": true
   },
   {
     "orderBookPubKey": "8t6rmu58VHYYzL492b4wQCNBGy2uepPgtwJVYCT9mXxt",
@@ -2477,7 +2613,7 @@
   {
     "orderBookPubKey": "F8GNSxu9nHCxJhcJoVEze4gNEHLmEqzmhgzToqfBk5hk",
     "collectionName": "Pen Frens",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "F5W1Zzm1VVyNjdNVRGKhKGaV8k4FQq28y1oXVgGvkRM5",
@@ -2502,22 +2638,22 @@
   {
     "orderBookPubKey": "7U2Gd4qY3iY7uYvk7XxbJ5o8ndNALvPD2Wh77shUuKvp",
     "collectionName": "Photo Finish PFP Collection",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "6Z5zgpYxrPMrgHo2EoFS8KJb4mT8NYjRwAfzSBMcguU4",
     "collectionName": "Pigmo",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "87xXE1URecyTH9ywwNwPAsjTSxRkBXhS9M6aPvTyn92R",
     "collectionName": "Pikenians",
-    "enabled": false
+    "enabled": true
   },
   {
     "orderBookPubKey": "DZ8G7bqi8QNrsuoZoTEHBrBaLhyjocS6KvtQMBFa1eit",
     "collectionName": "Pioneer Legends",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9TXst811r3mDTCVMstLEXh61MgiFrUtBgE368Xer9fa3",
@@ -2532,12 +2668,12 @@
   {
     "orderBookPubKey": "7Xp6sTDvDYFuRxomVfQ2Jt5tuaMhLXu9tNyYpYg6UDQy",
     "collectionName": "Pixel Panda Crew",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "4TdKjF8yEQJN7ASKboWK1Pmkw5MUz7rcDL3TddPkTx7y",
     "collectionName": "Pixel Puffs",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "G1ib5Pghe6GTWvhjXWbnPbg6rFx9PnkxqmSNYwFFFduK",
@@ -2590,11 +2726,6 @@
     "enabled": true
   },
   {
-    "orderBookPubKey": "9VDkh32oVhsnADQxt3W4MjyyL78hBbWKM2GHBRrZjRUv",
-    "collectionName": "Potted P's",
-    "enabled": false
-  },
-  {
     "orderBookPubKey": "8t4sSt5N5HHe4oHsvw6jF927C7difn5WV2e8DjVcxoQ2",
     "collectionName": "Poverty Boys",
     "enabled": false
@@ -2612,7 +2743,7 @@
   {
     "orderBookPubKey": "3tuTPS3XRxvkhzkiEdP3EAqgNyemxUJP5v8gDn1B7DWF",
     "collectionName": "Projekt Paradise",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "8gmvWVj9TskuMQhRbx3aCxq1Q4iefp5mAuN2R9AEiEjr",
@@ -2635,9 +2766,24 @@
     "enabled": true
   },
   {
+    "orderBookPubKey": "DVLuKcqFUeBzvqKYEKWowKcg7mpxGfrWmsbjivBquPe4",
+    "collectionName": "Pumpfun Pepe",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "3egbgXhFvEsmMBrw2XkZwy78L6d4q8xznhDvEphGUD8a",
     "collectionName": "PUNKLINES",
     "enabled": false
+  },
+  {
+    "orderBookPubKey": "5u3vRJnWXSvfbuKXgsoduamadYVaqFXGSDk7MXiMqD7f",
+    "collectionName": "Punky HA_G",
+    "enabled": false
+  },
+  {
+    "orderBookPubKey": "AE6FgxnGe4KkpTJ25R5iomar9gTbFqdnRwGb8EUEPAeD",
+    "collectionName": "Punky Kongz",
+    "enabled": true
   },
   {
     "orderBookPubKey": "8pzhckNbHxrEm15UbVQRKiTpkDjSB6Hg6wcQUAE3p3f9",
@@ -2648,6 +2794,11 @@
     "orderBookPubKey": "HFQ9ZJVDfm7f4W2rba8ywjuPStcsBHVnCwwnUCD4xsPL",
     "collectionName": "QTbotz Gen 0",
     "enabled": false
+  },
+  {
+    "orderBookPubKey": "E7Mia4tnAQJaCXrabBxkhuY1z3EAgm8i9SkQeUpcRbuD",
+    "collectionName": "Quack Heads",
+    "enabled": true
   },
   {
     "orderBookPubKey": "EHafnV1tDKFcqWatgN23Efboj3xdrUemyU7noWEpYZRh",
@@ -2692,7 +2843,7 @@
   {
     "orderBookPubKey": "2tDWS8U2SVUtzDfRFYLaZeBVf6ELpEkefK8wPdCXWddF",
     "collectionName": "Rare Pepe DAO",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "DonD3ZiRTX5w83bKfDzuQjKff4vhoYnswC2AwFiuvWS4",
@@ -2702,12 +2853,12 @@
   {
     "orderBookPubKey": "Bq7VcRYdHtbGg7uXn79ui94foGJtARgBWr9cqMbD58tF",
     "collectionName": "Rave3",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "6GdB1D6iCb1VBTiSaKbxspvdfEir1aPaCNPefTSBL8yb",
     "collectionName": "Reavers",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9cZTqXv5A2LeJ5BwJR7u64iqwSAdiP22XvsjeKA21QCc",
@@ -2727,7 +2878,7 @@
   {
     "orderBookPubKey": "2HZNcJm8R7XPCk8tWu7Y4oW7r5ZmVycrb1m5iZtFiEYn",
     "collectionName": "Reptilian Renegade (Lizards)",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "FkfpuRrvwLFdL6cUfXXnyic2m87AFftZ89A1sBmK7gQz",
@@ -2760,6 +2911,11 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "DqmnGp3azwZqWhwykYujndyGcAv4ampYqNsJBPBQJ3ek",
+    "collectionName": "Rogues",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "7zWDMU8VCHu2NxiBKBfAApByKTVtzW4ArJVcEfEKBnJr",
     "collectionName": "Rolling Bones - Meta Drive Avatars",
     "enabled": false
@@ -2790,6 +2946,11 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "GF7goQPPVhQXRzT51dNXiwWMFK62FwTHAPfAJ9YhGAcn",
+    "collectionName": "Sachi Origins",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "HsuEMCBsM7rgpLGuMWRWaLoQunTz23WDJx2zdAQjRLKc",
     "collectionName": "Saga Monkes",
     "enabled": true
@@ -2807,7 +2968,7 @@
   {
     "orderBookPubKey": "8jB7GDv4ZutSPuFHcu7yf4baG5ATFccKD2MU5PjyzDRA",
     "collectionName": "Samoyedcoin",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "LjA8vPRhcwiZY3o1YQdmQmu3Z7j3257U9bAPSJwGJW8",
@@ -2822,7 +2983,7 @@
   {
     "orderBookPubKey": "36sLKFTwuTXkMAnCBJhg5BvJuM488HN45q2AHs24UE4C",
     "collectionName": "Satorians",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "5Gt3XSJTmNp2Sem8BLHz9dh7vdVWN5smsKexRH46PX4V",
@@ -2892,7 +3053,7 @@
   {
     "orderBookPubKey": "oKDsUv1MsMk6sp4iMjNFGxFaeaLzjRKrcdSwAZRF7ci",
     "collectionName": "Shadowy Super Coder",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2GbNUNRHSRfwWJZFANCHHxqxUCfscBTV8JUmkd1knqdi",
@@ -2910,6 +3071,11 @@
     "enabled": true
   },
   {
+    "orderBookPubKey": "4SqDj2JB2CTo8ZQ2FeSPfDbYc9eGqB7PgoLb14S8Vbe8",
+    "collectionName": "sharx Lvl4",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "5iiYBLc1hGum2JYxS3kUQLzpARXhQpykoBh76YHsXTBt",
     "collectionName": "Shiba Inu Ukraine",
     "enabled": false
@@ -2922,7 +3088,7 @@
   {
     "orderBookPubKey": "6cbkFpoWEFDqVp6FT7bRkyt9Rdhw6u4xyL8QgwJ4SgDZ",
     "collectionName": "shremps",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "HNXH47hMbhVmNgBL1uahBvKomdJQVbdGuexnkxomazMz",
@@ -2932,12 +3098,12 @@
   {
     "orderBookPubKey": "FyfqopY6DSiHzJ7gfUwv6z9bQYctc1LjCrWffqeiEmqe",
     "collectionName": "Silhouettes by Serc",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "7jmwXYq2BZWJTNNDoe3uzPjwaRSqdV2g1pj1D8ZXEX7f",
     "collectionName": "SILICONS",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "3n9JcfWMYNcstLjcYd8iTHz7fMYezAHv3MV3tqq2rfDq",
@@ -2952,7 +3118,7 @@
   {
     "orderBookPubKey": "7aGJk4ASgg89ygToo1eXmuVF3yW2HaEjemUzdysEPDTg",
     "collectionName": "Sketchy Bears",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "3sTKwxkAhGNrdEoor2fXzfqhsnLpWKeqzcGrNzdoVaZT",
@@ -2962,7 +3128,7 @@
   {
     "orderBookPubKey": "CMKh9Ww7x9Tz23fgjzLpZietXNEZVny3TzNjQcTEkDru",
     "collectionName": "SLERF",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "FA3u6Lp1WXgLDkeAvheJBpUFpL8HhLLdzHVzmW3dBbgQ",
@@ -3007,7 +3173,7 @@
   {
     "orderBookPubKey": "8ZdHVG2qsWndCYWiKLrQsr1UnzXUxd8ReEhVDtbVmotU",
     "collectionName": "SoDead",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "41ebo74cm4Ch4r7tAPxit1FD91EDotH9kp63Go68QvPD",
@@ -3032,7 +3198,7 @@
   {
     "orderBookPubKey": "BgazWxg5YQJfH45VhtRUzw24ismw5mV7bjPa1aohU4kE",
     "collectionName": "Solana Business Frogs",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "77yFHWsBfz3xS889MvKHYjNDvYF5ZTsjSBRhBYhiqJ5T",
@@ -3062,7 +3228,7 @@
   {
     "orderBookPubKey": "HzDeqUuMgtaZweahb8tVi6JPCGH4XdTFspA6JZEa5neM",
     "collectionName": "Solana Monke Rejects",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "3FqYQVzoxYZiS352pw2YVUcqqXdDsgaNXGRsR5mWQQuk",
@@ -3107,7 +3273,7 @@
   {
     "orderBookPubKey": "2Av2hiL4KZ9bsNtBX6MLLPHiN6buGCd8AxDqH8XkhWPf",
     "collectionName": "Sollamas",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9ikJKFYENUaXekruZS1j65PJt8p5w8xSamfXPtTdbXE8",
@@ -3117,7 +3283,7 @@
   {
     "orderBookPubKey": "5YrayX7TQ97R35TjDqqJatSrA531RnvH2mGjHvqWPjnu",
     "collectionName": "SolRarity - Rarikeys",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2SQugE6XZwaeE1tu614nvChDbcnyCv9hYrFWBG5KgfhN",
@@ -3127,7 +3293,7 @@
   {
     "orderBookPubKey": "Fv7x4J61QqLVjFnsbuCKe87swnLiSmagjYV5QkbLdjoa",
     "collectionName": "Sols SPL20",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "6w2Gwht8Pb1D4x3eLDzr3DrRcP1FKF5hSAorFvzW9nGL",
@@ -3177,7 +3343,7 @@
   {
     "orderBookPubKey": "3Cckb9C25akx4Zv3JYsTJwnqKhjS857TecbeSCaP4XrD",
     "collectionName": "Sproto Pepes",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "A2QFvegSf5pshdnXrbV8gYRYHgQjdbAg1Q8635Qx8fkj",
@@ -3200,6 +3366,11 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "9A9kGB3kriJjzpQyZ8ojGM7bgaQdb7V2pCuWNUynxYmD",
+    "collectionName": "Steakers",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "DwXVdkAADLGdorXWmcdTSheNUzMWbDP7wVhXsjD6Lxft",
     "collectionName": "Stoned Ape Crew",
     "enabled": true
@@ -3212,12 +3383,12 @@
   {
     "orderBookPubKey": "BVQVWc8xu4fug8qXkv6oGuyaKyJVbY7wY7bM5XpEtisq",
     "collectionName": "Sujiko Warrior",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "J3ofbjZ6emFUDUZ96wkvkuN2iPVgN6eNenSdd8LprVgK",
     "collectionName": "SUPERBASEDD",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "EiCb5hPLKs8piTjoLzzpug6yrD9QRZPwUUrhZv7kewrd",
@@ -3257,7 +3428,7 @@
   {
     "orderBookPubKey": "2u2QH3GiaiNrn8tWxSa3bhjW2oKcpB54C11zwpTe2pXo",
     "collectionName": "Taiyo Pilots",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9xdDe5zKx1GzDMp6QTzq5FS6qHiVa9zXAsAPntq5FHSy",
@@ -3285,6 +3456,16 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "91otXD8rMKLyt1dhA5RkjMxWpFt5KUYEzMr9vfhtbCyc",
+    "collectionName": "ThatGoblins",
+    "enabled": true
+  },
+  {
+    "orderBookPubKey": "Gh7KcY7yyxdD17N26sdA25x87xRpW9dyE3FfXesWBdkr",
+    "collectionName": "THC ᴸᵃᵇᶻ | The Growerz",
+    "enabled": true
+  },
+  {
     "orderBookPubKey": "H4BzEirDZQhU8NPMA8xRHj39JUUJbrZbUgPgfLXcmGor",
     "collectionName": "The Anon Club™",
     "enabled": false
@@ -3292,12 +3473,12 @@
   {
     "orderBookPubKey": "8srsRbC6o3ryLMzYVza9rGFFCfwhieKzCHXdRs3VSf7R",
     "collectionName": "The Anon Club™",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "DLZVjjVKSR7numo3rRLoHrPiPnY4kDkwzTymjb8Ctj9T",
     "collectionName": "The Backwoods",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "Am4k8JdFfYbDZqisSrW1Uo25AXHyN9dyaQBigrqCrZJb",
@@ -3367,12 +3548,12 @@
   {
     "orderBookPubKey": "7akdgq28vtaKrQpDfRPBpMTKoLSYqNGFZv97eFCARNxi",
     "collectionName": "The Heist",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2VCQ4oPpXoDNsGf6U73dSnmpGdLYnsdZzv3Gb8SaUQxq",
     "collectionName": "The Heist Land",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "3B1NnYzd1R3iY2TNbtwkrEa3RPKPLeKdMLMJNYfYK1R4",
@@ -3457,7 +3638,7 @@
   {
     "orderBookPubKey": "8FYbwk3PbmgNpRuhf3cveXJZCWvDUso3ZdRodmGQohUR",
     "collectionName": "The Remnants",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "FgygrXHEzDBTZYRzCA3QMSPe8CmdvFcgesBBqBW9r8hk",
@@ -3487,7 +3668,7 @@
   {
     "orderBookPubKey": "47iWzX2VxsUegEN78HWEtwqS8ebyC9q9h5FmvhUDkTny",
     "collectionName": "The X Bank",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "GF3o4ro4UYMobaknizyA69ZxUawfhxNNBF5uYrBwAtDz",
@@ -3502,17 +3683,17 @@
   {
     "orderBookPubKey": "GgxyzwkoqBc2jQaxJmyswgsu8UBXP9QtHeFX3QZjB5vT",
     "collectionName": "Tillarys",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "CgGEp5KwEKgPNPoWzyw17X77J9pF3utyKGKxJSbSRkCF",
     "collectionName": "Time Traveling Chimps Club",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2zEZpgCb9h4yU5kovPZrt5vjwdzy2heyVDfsMoVyWCFv",
     "collectionName": "TittyDAO Pass",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "9CxcERivY6qvaAuqfsqBLm4ncyeQk5mqYUD5BFkavT2V",
@@ -3535,6 +3716,11 @@
     "enabled": false
   },
   {
+    "orderBookPubKey": "FVNgo55bpbL6WTDfKr5zLHtTpeoFUjvHBE9QWEQfYvBw",
+    "collectionName": "TOPU, Inc.",
+    "enabled": false
+  },
+  {
     "orderBookPubKey": "4QGzF6eDKzdFN8K1vRkZbcCm78m8PSD6sdcPSm6JT7W2",
     "collectionName": "Tottori Labs",
     "enabled": false
@@ -3552,11 +3738,11 @@
   {
     "orderBookPubKey": "6vnmnTfYsnhn2H9oWPBLCAktWy1Lc6dz2McLRMUWyvgk",
     "collectionName": "Trench Demons",
-    "enabled": true
+    "enabled": false
   },
   {
-    "orderBookPubKey": "Eoao1bnbxhbopbNP3eXdkJ9BNibRk1eWp1LjxdoUNaKo",
-    "collectionName": "Trippin' Ape Tribe",
+    "orderBookPubKey": "2BSyNqftXfBvDjggJZq8AexajNdemGURQVHWnZqfeMRT",
+    "collectionName": "Trencher",
     "enabled": true
   },
   {
@@ -3585,8 +3771,13 @@
     "enabled": false
   },
   {
-    "orderBookPubKey": "77M8cSPgxQhabwRqcu5eqBwt4sqinrMXFtsfiSfxjuny",
+    "orderBookPubKey": "4wPKFtewgEvwEGM9PpZqBpUKfS4gunC39cMP5obURVCG",
     "collectionName": "Udder Chaos",
+    "enabled": true
+  },
+  {
+    "orderBookPubKey": "77M8cSPgxQhabwRqcu5eqBwt4sqinrMXFtsfiSfxjuny",
+    "collectionName": "Udder Chaos Legacy",
     "enabled": true
   },
   {
@@ -3602,12 +3793,12 @@
   {
     "orderBookPubKey": "8x9DJgMiHumyGr2xXfgNv3wGWNv8P7BjAqz3J2biLp7x",
     "collectionName": "Underground DAO",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "DhxLXegmk3vBQur663PGhfFJFSy2ue3BoBPmpvfvynYm",
     "collectionName": "Underground Decoders",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "6RNkpufPBopY1Q43NYQN3BbrQetwABvoQbQ9A4fsSchB",
@@ -3627,7 +3818,7 @@
   {
     "orderBookPubKey": "7UewxHNCh5vSM5jKzvjcBNJTeBdetauCNFE87yYwT4gY",
     "collectionName": "UNICORNIO",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "GgxiN6ktmUSeHAnpBzrpBgGZd6CVNWQTHjXvKP8jsYaF",
@@ -3662,7 +3853,7 @@
   {
     "orderBookPubKey": "CXfVEwMeFBE5CRmjPNk8YDpbttAN6xZGosGbdHVdpzhz",
     "collectionName": "Vibe Knights",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "5CgSZz8Zk55art11AeZzwxTA5J9gafRew45GGZtGSbvo",
@@ -3717,6 +3908,16 @@
   {
     "orderBookPubKey": "HY3MsKfBrweEHrQuQKDLxtbipb6U98DX3s7YWAJxtki2",
     "collectionName": "Webkidz",
+    "enabled": false
+  },
+  {
+    "orderBookPubKey": "7FPJBJCiFniaU3EzYxyJLmuTyS75eveo1iucN23vW5NQ",
+    "collectionName": "Wegenettes",
+    "enabled": false
+  },
+  {
+    "orderBookPubKey": "GHUy3d92YqU4tYD8hRtoBYz4xjs9rLZVcRigRQazGJ9D",
+    "collectionName": "WEGENS",
     "enabled": true
   },
   {
@@ -3767,10 +3968,15 @@
   {
     "orderBookPubKey": "8QVf9hMEwSZLYbEQsxtjyVja8dLajkfecBEFYqPwfnYt",
     "collectionName": "xNomad Genesis",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "3b6XwiXNribYmbo4P9TSP7LHYAcbP3YUPGYWNpfwfBMp",
+    "collectionName": "y00ts",
+    "enabled": true
+  },
+  {
+    "orderBookPubKey": "AP1ZWYfSHnCr1cPdpvBvf1KfCPwymvyfexzUN9zyPZCE",
     "collectionName": "y00ts",
     "enabled": true
   },
@@ -3787,7 +3993,7 @@
   {
     "orderBookPubKey": "CW6oJwJCqvj9zwBtbEUwXS3nmhjowA1tgxzU6oHoVaqq",
     "collectionName": "Yaku | Capsule X",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "2wZ5ZbSrgnY3XxQP2uT9UcAxwg9BP4GND14XMGxdhe1U",
@@ -3797,7 +4003,7 @@
   {
     "orderBookPubKey": "BZbH5SdbvXA6BmEZie5RU3NdYHh8deUbPKCsotrwSRS5",
     "collectionName": "Yaku Engineering ONI-S01",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "CEfNg5oHAUcRfzmb9HVpNtSbrcZZuJcKtqEprySv7dT7",
@@ -3807,12 +4013,12 @@
   {
     "orderBookPubKey": "637LUNmd3FtAR9yb1Hi5CTvafLZChxDHUDyT5vyajH7P",
     "collectionName": "Yaku X",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "GtMTxbJbMSjQ7YmaD1tXzScU5toup6HYogtj4doVv2dR",
     "collectionName": "Yakub: Creator of the White Race",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "EUQWL8zSRgaHTBJwxDBmLc2Uv7PwqUHVEGj3bmvDwmx",
@@ -3822,7 +4028,7 @@
   {
     "orderBookPubKey": "5V7LcdpxXCVSbHuSi2B1sPKWnQi2gSq9KKCFfn7xa2GN",
     "collectionName": "YOLOMIGOS SPL420",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "HDeoWDeLZuqdzzKAsALjKtBpFoJSCRu3T5aGDbxmM1sG",
@@ -3840,16 +4046,6 @@
     "enabled": false
   },
   {
-    "orderBookPubKey": "A8YhiSo4xE9poXBWnoSiJHzPg7fToX9TToB2rzfsEPUH",
-    "collectionName": "Zeebit's Zeebros",
-    "enabled": false
-  },
-  {
-    "orderBookPubKey": "AcErr8rKpaeuTi2UohJRN8W4mTgi4qA1cU6ZvHWGWvgn",
-    "collectionName": "Zeebit's Zeebros",
-    "enabled": true
-  },
-  {
     "orderBookPubKey": "8k77HmE2uXzTPmgBzjovWPb2DfGZarm1VsmTLb6tzVaT",
     "collectionName": "Zenjin Viperz",
     "enabled": false
@@ -3857,7 +4053,7 @@
   {
     "orderBookPubKey": "DLBrfKtjDQwy2BomcPT6HvDePuMtfynZ98wzBMQJHAbn",
     "collectionName": "zereborn",
-    "enabled": true
+    "enabled": false
   },
   {
     "orderBookPubKey": "Dnanesbc8Nfo7B4QU5zQ8NBNHr5gaRSCWCNzokTD65gz",
